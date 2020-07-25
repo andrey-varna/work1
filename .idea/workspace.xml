@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="40637a65-4739-4d4a-ae40-8db1a042fda9" name="Default Changelist" comment="" />
+    <list default="true" id="40637a65-4739-4d4a-ae40-8db1a042fda9" name="Default Changelist" comment="Первые 6 пунктов">
+      <change beforePath="$PROJECT_DIR$/.idea/work1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/work1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +33,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fB5bN3KZ9QcuMjbJSrur7DT0iS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,6 +41,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/env" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="home_work_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -27,9 +52,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Andrey\PycharmProjects\home work1\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_1.py" />
@@ -58,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1595678715534</updated>
     </task>
+    <task id="LOCAL-00001" summary="Первые 6 пунктов">
+      <created>1595679528792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595679528793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +103,43 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первые 6 пунктов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первые 6 пунктов" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="87" key="#home_work_1" timestamp="1595680989997">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="349" y="87" key="#home_work_1/0.0.1280.984@0.0.1280.984" timestamp="1595680989997" />
+    <state x="443" y="381" key="FileChooserDialogImpl" timestamp="1595685848187">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="443" y="381" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1595685848187" />
+    <state width="1222" height="99" key="GridCell.Tab.0.bottom" timestamp="1595685913265">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1222" height="99" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595685913265" />
+    <state width="1222" height="99" key="GridCell.Tab.0.center" timestamp="1595685913265">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1222" height="99" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595685913265" />
+    <state width="1222" height="99" key="GridCell.Tab.0.left" timestamp="1595685913264">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1222" height="99" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595685913264" />
+    <state width="1222" height="99" key="GridCell.Tab.0.right" timestamp="1595685913265">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1222" height="99" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595685913265" />
+    <state x="136" y="273" key="SettingsEditor" timestamp="1595686153167">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="136" y="273" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1595686153167" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1595679622142">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595679622142" />
   </component>
 </project>
