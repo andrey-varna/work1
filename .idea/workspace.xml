@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40637a65-4739-4d4a-ae40-8db1a042fda9" name="Default Changelist" comment="Первые 6 пунктов">
-      <change beforePath="$PROJECT_DIR$/.idea/work1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/work1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work_1.py" afterDir="false" />
+    <list default="true" id="40637a65-4739-4d4a-ae40-8db1a042fda9" name="Default Changelist" comment="Уже с селениумом">
+      <change beforePath="$PROJECT_DIR$/home_work_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_work.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="home_work_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Home_work" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="work1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Andrey\PycharmProjects\work1\Home_work.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.home_work_1" />
+        <item itemvalue="Python.Home_work" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595679528793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Уже с селениумом">
+      <created>1595686386888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595686386888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,7 +111,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первые 6 пунктов" />
-    <option name="LAST_COMMIT_MESSAGE" value="Первые 6 пунктов" />
+    <MESSAGE value="Уже с селениумом" />
+    <option name="LAST_COMMIT_MESSAGE" value="Уже с селениумом" />
   </component>
   <component name="WindowStateProjectService">
     <state x="349" y="87" key="#home_work_1" timestamp="1595680989997">
@@ -117,22 +123,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="443" y="381" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1595685848187" />
-    <state width="1222" height="99" key="GridCell.Tab.0.bottom" timestamp="1595685913265">
+    <state width="1222" height="99" key="GridCell.Tab.0.bottom" timestamp="1595686171469">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="99" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595685913265" />
-    <state width="1222" height="99" key="GridCell.Tab.0.center" timestamp="1595685913265">
+    <state width="1222" height="99" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595686171469" />
+    <state width="1222" height="99" key="GridCell.Tab.0.center" timestamp="1595686171469">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="99" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595685913265" />
-    <state width="1222" height="99" key="GridCell.Tab.0.left" timestamp="1595685913264">
+    <state width="1222" height="99" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595686171469" />
+    <state width="1222" height="99" key="GridCell.Tab.0.left" timestamp="1595686171469">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="99" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595685913264" />
-    <state width="1222" height="99" key="GridCell.Tab.0.right" timestamp="1595685913265">
+    <state width="1222" height="99" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595686171469" />
+    <state width="1222" height="99" key="GridCell.Tab.0.right" timestamp="1595686171469">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="99" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595685913265" />
+    <state width="1222" height="99" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595686171469" />
     <state x="136" y="273" key="SettingsEditor" timestamp="1595686153167">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
